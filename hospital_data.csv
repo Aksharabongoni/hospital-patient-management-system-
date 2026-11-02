@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Department,Status,Admission_Date
+101,25,Male,Cardiology,Admitted,2026-01-05
+102,32,Female,Neurology,Discharged,2026-01-10
+103,45,Male,Orthopedics,Admitted,2026-02-12
+104,29,Female,Cardiology,Discharged,2026-02-18
+105,51,Male,Pediatrics,Admitted,2026-03-02
+106,37,Female,Neurology,Admitted,2026-03-15
+107,60,Male,Orthopedics,Discharged,2026-04-04
+108,22,Female,Pediatrics,Admitted,2026-04-19
+109,48,Male,Cardiology,Discharged,2026-05-08
+110,34,Female,Neurology,Admitted,2026-05-20
