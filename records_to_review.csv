@@ -1,7 +1,0 @@
-Patient_ID,Patient_Name,Age,Gender,Blood_Group,City,Department,Doctor_Name,Admission_Date,Discharge_Date,Length_of_Stay_Days,Diagnosis,Treatment_Type,Room_Type,Insurance_Available,Payment_Mode,Total_Bill_INR,Patient_Status,Follow_Up_Required
-PAT0160,Rahul Gupta,32,Female,A-,Karimnagar,Orthopedics,Dr. R. Kumar,2026-11-01,2026-11-13,12.0,Back pain,Diagnostic Tests,ICU,Yes,Insurance,157565.92,Discharged,Yes
-PAT0282,Aditya Das,69,Female,O-,Khammam,Pediatrics,Dr. S. Naidu,2026-10-27,2026-11-07,11.0,Asthma,Therapy,General Ward,Yes,Insurance,74792.37,Discharged,Yes
-PAT0301,Pooja Verma,26,Other,A-,Warangal,Gynecology,Dr. K. Chowdary,2026-10-30,2026-11-08,9.0,Routine check-up,Therapy,Private,Yes,Insurance,111186.63,Discharged,Yes
-PAT0594,Rohan Patel,51,Male,O+,Karimnagar,Gynecology,Dr. M. Verma,2026-10-23,2026-11-03,11.0,Routine check-up,Medication,General Ward,Yes,Insurance,169179.33,Discharged,Yes
-PAT0658,Kiran Mishra,61,Female,A+,Warangal,Gynecology,Dr. M. Verma,2026-10-30,2026-11-04,5.0,Menstrual disorder,Diagnostic Tests,Private,Yes,Insurance,112247.41,Discharged,Yes
-PAT0895,Arjun Rao,52,Female,O-,Hanamkonda,Pediatrics,Dr. D. Gupta,2026-11-01,2026-11-12,11.0,Common cold,Medication,General Ward,Yes,UPI,145408.28,Discharged,Yes
