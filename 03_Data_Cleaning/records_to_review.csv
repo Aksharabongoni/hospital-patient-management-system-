@@ -1,0 +1,3 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Group,City,Department,Doctor_Name,Admission_Date,Discharge_Date,Length_of_Stay_Days,Diagnosis,Treatment_Type,Room_Type,Insurance_Available,Payment_Mode,Total_Bill_INR,Patient_Status,Follow_Up_Required
+PAT0160,Rahul Gupta,32,Female,A-,Karimnagar,Orthopedics,Dr. R. Kumar,2026-11-01,2026-11-13,12.0,Back pain,Diagnostic Tests,ICU,Yes,Insurance,157565.92,Discharged,Yes
+PAT0895,Arjun Rao,52,Female,O-,Hanamkonda,Pediatrics,Dr. D. Gupta,2026-11-01,2026-11-12,11.0,Common cold,Medication,General Ward,Yes,UPI,145408.28,Discharged,Yes
