@@ -1,11 +1,14 @@
-
 import pandas as pd
 from pathlib import Path
 
 # STEP 1: Load original dataset
 folder = Path(__file__).parent
 
-file_path = folder / "hospital_patient_management_dataset.csv"
+file_path = (
+    folder.parent
+    / "02_Data_Collection"
+    / "hospital_patient_management_dataset.csv"
+)
 
 df = pd.read_csv(file_path)
 
